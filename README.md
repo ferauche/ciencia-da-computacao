@@ -71,7 +71,7 @@ e é planejada para alunos com disciplina, comprometimento e (o mais importante)
 mas que buscam o suporte de uma comunidade de outros estudantes no Brasil todo.
 
 Este curso contém conteúdos que seriam vistos em um curso de Ciência da Computação organizados de forma estruturada.
-Os cursos em si são selecionados primariamente do conteúdo aberto de diversas Universidades e Institutos de Educação do Brasil. Entretanto,
+Os cursos em si são selecionados primariamente do conteúdo aberto de diversas Universidades e Institutos de Educação do Brasil. 
 os cursos presentes na grade seguem os seguintes critérios:
 
 **Bases para a criação do Currículo (Guidelines):**
